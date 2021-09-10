@@ -119,6 +119,7 @@ button:focus {
 @media screen and  (max-width: 800px) {
   h2 {
       font-size: 16px;
+      line-height: 25px;
       
   }
   p {
@@ -129,6 +130,7 @@ button:focus {
 @media screen and (max-width: 500px) {
   h2 {
     font-size: 14px;
+    line-height: 25px;
     
 }
   p {
