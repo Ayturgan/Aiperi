@@ -126,10 +126,10 @@ button:focus {
 
 @media (max-width: 500px) {
   h2 {
-    font-size: 14px;
+    font-size: 7px;
     
 }
   p {
-    font-size: 14px;
+    font-size: 5px;
   }
 }
