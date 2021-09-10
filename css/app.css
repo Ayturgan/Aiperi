@@ -77,14 +77,14 @@ body {
 
 } 
 
-@media screen and (max-width: 800px) {
+@media (max-width: 800px) {
   .content__title {
       font-size: 26px;
       line-height: 40px;
   }
   
 }
-@media screen and (max-width: 500px) {
+@media (max-width: 500px) {
     .content__title {
         font-size: 22px;
         line-height: 40px;

@@ -116,7 +116,7 @@ button:focus {
   opacity: 0;
 }
 
-@media screen and (max-width: 800px) {
+@media (max-width: 800px) {
   h2 {
       font-size: 26px;
       line-height: 40px;
@@ -124,7 +124,7 @@ button:focus {
   
 }
 
-@media screen and (max-width: 500px) {
+@media (max-width: 500px) {
   h2 {
     font-size: 18px;
     line-height: 40px;
